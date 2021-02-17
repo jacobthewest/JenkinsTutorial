@@ -49,7 +49,33 @@
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in JenkinsCalculator">
+    <configuration name="All in JenkinsCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTestThorough" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTestThorough" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest.divideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JenkinsCalculator" />
       <option name="PACKAGE_NAME" value="" />
@@ -62,6 +88,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in JenkinsCalculator" />
+        <item itemvalue="JUnit.CalculatorTestThorough" />
+        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.divideTest" />
       </list>
     </recent_temporary>
@@ -116,6 +145,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="581" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613587848711" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1613591797240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613591797240" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1613591797239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613591797239" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1613591797239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613591797239" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1613591797239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613591797239" />
     <state x="281" y="0" key="SettingsEditor" timestamp="1613589349823">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
