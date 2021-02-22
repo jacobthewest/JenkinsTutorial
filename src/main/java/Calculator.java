@@ -48,6 +48,8 @@ class Calculator {
         f[0] = 0;
         f[1] = 1;
 
+        break me here
+
         for (i = 2; i <= n; i++)
         {
        /* Add the previous 2 numbers in the series
